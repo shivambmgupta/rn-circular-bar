@@ -1,0 +1,37 @@
+{
+  "name": "rn-circular-bar",
+  "version": "1.0.0",
+  "description": "A light-weighted react-native module for creating a circular progress bar. This module incorporates animations and has peer dependency on react-native-reanimated@1.13.3.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivambmgupta/rn-circular-bar.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "slider",
+    "input",
+    "circular",
+    "progress"
+  ],
+  "author": "Shivam Gupta <shivambmgupta@gmail.com> (https://shivambmgupta.netlify.app)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivambmgupta/rn-circular-bar/issues"
+  },
+  "homepage": "https://github.com/shivambmgupta/rn-circular-bar#readme",
+  "devDependencies": {
+    "react-native-reanimated": "^1.13.3",
+    "react-native-svg": "^12.1.1"
+  },
+  "peerDependencies": {
+    "react": ">=17.0.1",
+    "react-native": ">=0.63.4",
+    "react-native-svg": "^12.1.1",
+    "react-native-reanimated": "^1.13.3"
+  }
+}
