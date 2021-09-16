@@ -1,6 +1,6 @@
 {
   "name": "rn-circular-bar",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A light-weighted react-native module for creating a circular progress bar. This module incorporates animations and has peer dependency on react-native-reanimated@1.13.3.",
   "main": "index.ts",
   "scripts": {
