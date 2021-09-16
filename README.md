@@ -18,7 +18,7 @@ npm i --save rn-circular-bar
 **Install with [yarn](https://yarnpkg.com):**
 
 ```sh
-$ yarn add react-native-circle-slider
+$ yarn add rn-circular-bar
 ```
 
 ## Sample
