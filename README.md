@@ -80,7 +80,7 @@ export default App;
 ## Note
 This dependency takes the *modulo of 100*. Let's assume the user has passed 135 as progress, the progress will be 35. 
 
-_Progress_: This is the value on a scale of 150. If the entity has a value of 50 out of 100, the value of progress should be 33. 
+_Progress_: This is the value on a scale of 100. If the entity has a value of 50 out of 150, the value of progress should be 33. 
 
 ## Author
 
