@@ -11,12 +11,14 @@
     "url": "git+https://github.com/shivambmgupta/rn-circular-bar.git"
   },
   "keywords": [
-    "react",
-    "native",
+    "react-native",
     "slider",
     "input",
+    "output",
     "circular",
-    "progress"
+    "progress",
+    "progress bar",
+    "circular slider"
   ],
   "author": "Shivam Gupta <shivambmgupta@gmail.com> (https://shivambmgupta.netlify.app)",
   "license": "ISC",
